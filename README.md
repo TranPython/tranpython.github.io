@@ -2,7 +2,7 @@
 
 This page base on Zooper's template.
 
-![Zooper template home preview](https://zooper.pages.dev/preview.jpg)
+![Home preview](public/avatar.png)
 
 
 ## Features
