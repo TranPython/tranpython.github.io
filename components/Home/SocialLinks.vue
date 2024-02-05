@@ -26,22 +26,22 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/fayazara",
+    url: "https://twitter.com/tranpython",
     icon: "mdi:twitter",
   },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/tranpython",
     icon: "mdi:github",
   },
   {
     name: "Linkedin",
-    url: "https://www.linkedin.com/in/fayaz-aralikatti/",
+    url: "hhttps://www.linkedin.com/in/tranpython",
     icon: "mdi:linkedin",
   },
   {
     name: "Telegram",
-    url: "https://t.me/fayazara",
+    url: "https://t.me/tranpython",
     icon: "mdi:telegram",
   },
 ];
