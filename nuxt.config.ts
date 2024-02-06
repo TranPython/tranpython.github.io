@@ -36,8 +36,4 @@ export default defineNuxtConfig({
       Inter: [400, 500, 600, 700, 800, 900],
     },
   },
-  typescript: {
-    typeCheck: true,
-    strict: true
-  },
 });

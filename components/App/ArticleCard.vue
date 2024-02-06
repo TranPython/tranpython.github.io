@@ -25,18 +25,7 @@
   </NuxtLink>
 </template>
 
-<script setup lang="ts">
-import {ref, reactive, onMounted} from 'vue';
-
-type Article = {
-  title: string,
-  description: string,
-  published: string,
-  _path: string
-}
-
-// const article = defineProps<Article>();
-
+<script setup>
 defineProps({
   article: {
     type: Object,
@@ -44,7 +33,7 @@ defineProps({
   },
 });
 
-const getReadableDate = (dateString: any) => {
+const getReadableDate = (dateString) => {
   const date = new Date(dateString);
   return date.toLocaleDateString("en-US", {
     year: "numeric",

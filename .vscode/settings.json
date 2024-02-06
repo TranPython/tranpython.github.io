@@ -21,6 +21,5 @@
         "className",
         "ngClass",
         "ui"
-    ],
-    "nuxt.isNuxtApp": false
+    ]
 }
