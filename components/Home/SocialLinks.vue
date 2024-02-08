@@ -44,5 +44,10 @@ const links = [
     url: "https://t.me/tranpython",
     icon: "mdi:telegram",
   },
+  {
+    name: "Slack",
+    url: "https://join.slack.com/t/tranpython/shared_invite/zt-2c067f2d3-NJEruR2tp0U4d58U20sxpQ",
+    icon: "mdi:slack",
+  },
 ];
 </script>
